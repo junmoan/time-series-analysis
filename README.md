@@ -1,2 +1,2 @@
 # time-series-analysis
-Sample Codes for Time Series Analysis
+Codes for Time Series Analysis
